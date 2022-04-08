@@ -1,0 +1,5 @@
+cm_client:
+  configuration:
+    username: workload_user
+    password: mypassword
+    api_url: https://my.api.url:7183/api/v44
